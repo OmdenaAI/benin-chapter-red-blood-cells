@@ -1,0 +1,12 @@
+path :  /content/drive/MyDrive/benin-chapter-red-blood-cells
+train: src/data/datasets/idb3
+val: src/data/datasets/Validation
+test: src/data/datasets/Test
+
+# Classes
+names :
+ 0 : chrystal
+ 1 : normal
+ 2 : other
+ 3 : sickle
+ 4 : target

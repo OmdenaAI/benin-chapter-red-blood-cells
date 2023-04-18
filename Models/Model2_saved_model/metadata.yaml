@@ -1,0 +1,11 @@
+description: Ultralytics Model2 model trained on Aggregated.yaml
+author: Ultralytics
+license: GPL-3.0 https://ultralytics.com/license
+version: 8.0.43
+stride: 32
+names:
+  0: Crystal
+  1: Normal
+  2: Others
+  3: Sickle
+  4: Target

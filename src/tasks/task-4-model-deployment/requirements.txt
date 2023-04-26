@@ -5,3 +5,4 @@ plotly
 kaleido
 Pillow==9.5.0
 weasyprint
+streamlit>0.66

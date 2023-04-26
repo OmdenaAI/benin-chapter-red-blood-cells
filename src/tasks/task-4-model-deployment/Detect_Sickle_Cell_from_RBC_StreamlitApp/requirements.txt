@@ -1,4 +1,5 @@
 streamlit
+opencv-python-headless
 ultralyticsplus
 plotly
 kaleido

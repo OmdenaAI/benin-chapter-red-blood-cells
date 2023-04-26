@@ -1,2 +1,9 @@
 libgl1
 libpangocairo-1.0-0
+streamlit
+opencv-python-headless
+ultralyticsplus
+plotly
+kaleido
+pillow==9.5.0
+weasyprint

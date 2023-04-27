@@ -1,5 +1,6 @@
 streamlit
 opencv-python-headless
+Pillow==8.3.1
 ultralyticsplus
 plotly
 kaleido

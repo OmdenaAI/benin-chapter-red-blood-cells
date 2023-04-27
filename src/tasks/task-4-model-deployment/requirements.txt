@@ -1,4 +1,5 @@
 libgl1
+libpangocairo-1.0-0
 opencv-python-headless
 Pillow==9.4.0
 ultralyticsplus

@@ -4,6 +4,5 @@ Pillow==8.3.1
 ultralyticsplus
 plotly
 kaleido
-Pillow==9.5.0
 weasyprint
 streamlit>= 1.4.0

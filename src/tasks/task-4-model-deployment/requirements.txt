@@ -1,6 +1,5 @@
-streamlit
-opencv-python-headless
 libgl1
+opencv-python-headless
 Pillow==9.4.0
 ultralyticsplus
 plotly

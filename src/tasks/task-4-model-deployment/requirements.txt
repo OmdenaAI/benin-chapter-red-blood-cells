@@ -1,4 +1,4 @@
-opencv-python-headless
+opencv-python
 Pillow==9.4.0
 ultralyticsplus
 plotly

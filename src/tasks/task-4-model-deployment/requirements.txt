@@ -1,6 +1,6 @@
 streamlit
-opencv-python
-opencv-python-headless>=4.1.2
+opencv-python-headless
+libgl1-mesa-glx
 Pillow==9.4.0
 ultralyticsplus
 plotly

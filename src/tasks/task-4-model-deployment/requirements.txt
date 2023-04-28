@@ -1,11 +1,8 @@
 ultralyticsplus
-joblib==1.1.0
 Pillow==9.4.0
 streamlit==1.20.0
 torch==2.0.0
-ultralytics==8.0.57
 plotly==5.13.1
 tableauserverclient==0.17.0
 kaleido
 weasyprint
-opencv-python-headless

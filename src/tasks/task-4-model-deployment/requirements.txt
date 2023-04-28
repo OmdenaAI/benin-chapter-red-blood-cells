@@ -8,3 +8,4 @@ plotly==5.13.1
 tableauserverclient==0.17.0
 kaleido
 weasyprint
+opencv-python

@@ -2,4 +2,3 @@ Pillow
 plotly
 kaleido
 weasyprint
-libgl1-mesa-glx 

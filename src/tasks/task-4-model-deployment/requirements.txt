@@ -1,5 +1,6 @@
-streamlit
-opencv-python-headless
+streamlit==0.81.1
+streamlit_webrtc==0.20.0
+opencv-contrib-python-headless
 ultralyticsplus
 plotly
 kaleido

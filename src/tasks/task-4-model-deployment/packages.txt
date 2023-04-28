@@ -4,3 +4,4 @@ streamlit
 opencv-python-headless==4.5.3.56
 ultralyticsplus
 libgl1-mesa-glx 
+libglib2.0-0

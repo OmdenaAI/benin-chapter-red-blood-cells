@@ -3,7 +3,3 @@ libpangocairo-1.0-0
 streamlit
 opencv-python-headless
 ultralyticsplus
-plotly
-kaleido
-Pillow==8.3.1
-weasyprint

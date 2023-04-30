@@ -1,8 +1,7 @@
 streamlit
-ultralytics
-ultralyticsplus
 opencv-python-headless
+ultralyticsplus
 plotly
 kaleido
-Pillow
+Pillow==9.5.0
 weasyprint

@@ -126,7 +126,7 @@ st.markdown(HEADER_STYLE, unsafe_allow_html=True)
 #st.title(PAGE_TITLE)
 with st.container():
     conf_value = st.slider(label='Select detection tuning level value between 0.0 and 1.0 for better performance: ', min_value=0.0, max_value=1.0, value=0.4, step=0.1) 
-    st.title(f"Upload a RBC Image of Format(jpeg,jpg,png): ")
+    st.title(f"Upload a RBC Image (640 x 640) of Format(jpeg,jpg,png): ")
     uploaded_image_file = st.file_uploader("", type=ALLOWED_EXTENSIONS)
     st.warning(WARNING_MESSAGE, icon="⚠️")
     with st.container():

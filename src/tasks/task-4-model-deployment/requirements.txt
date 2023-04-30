@@ -1,8 +1,7 @@
-streamlit
-opencv-python-headless
-ultralyticsplus
-plotly
-kaleido
+streamlit==1.21.0
+opencv-python-headless==4.7.0.72
+ultralyticsplus==0.0.28
+plotly==5.14.1
+kaleido==0.2.1
 Pillow==9.5.0
-weasyprint
-opencv-python
+weasyprint==58.1

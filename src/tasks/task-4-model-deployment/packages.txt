@@ -2,3 +2,10 @@ libgl1
 libpangocairo-1.0-0
 libgl1-mesa-glx
 mesa-libGL
+freeglut3-dev
+libgtk2.0-dev
+ffmpeg
+libsm6
+libxext6
+libxrender1
+libfontconfig1

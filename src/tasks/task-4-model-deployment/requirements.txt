@@ -1,6 +1,7 @@
-opencv-python-headless==4.3.0.38
+streamlit
+opencv-python-headless
 ultralyticsplus
-Pillow
 plotly
 kaleido
+Pillow==9.5.0
 weasyprint

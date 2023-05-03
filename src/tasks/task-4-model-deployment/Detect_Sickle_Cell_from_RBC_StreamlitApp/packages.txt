@@ -1,1 +1,1 @@
-libgl
+opencv-python-headless

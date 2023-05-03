@@ -3,15 +3,13 @@
 import streamlit as st
 from streamlit.elements import text
 from streamlit.components.v1 import iframe
-import os
-import io
+import os, io
 from datetime import date
 import glob as glob
 import pandas as pd
 import numpy as np
 from PIL import Image
-from ultralyticsplus import YOLO
-from ultralyticsplus import render_result
+from ultralyticsplus import YOLO, render_result
 import base64
 #import plotly
 import plotly.express as px

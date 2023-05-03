@@ -1,3 +1,7 @@
 streamlit
 ultralytics
 ultralyticsplus
+plotly
+kaleido
+Pillow
+weasyprint

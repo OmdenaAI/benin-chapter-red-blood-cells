@@ -55,7 +55,7 @@ PAGE_TITLE="Diagnose Sickle Cell Diseases by Red Blood Cells(RBCs) Classificatio
 HOMEPAGE_CHAPTERLEAD='''
 | Chapter Name | Lead Name |
 |--|--|
-| Benin Chapter Leads | Moustapha Amadou Roufaï |
+| Benin Chapter Leads | Moustapha Amadou Roufaï - moustapharouf@yahoo.fr |
 '''
 
 HOMEPAGE_ACTIVE_MEMBERS='''

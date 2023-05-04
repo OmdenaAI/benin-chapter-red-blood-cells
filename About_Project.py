@@ -19,7 +19,7 @@ HEADER_STYLE=f"""<style>
             width: 300px;
             padding-top: 0%;
             padding-bottom: 10%;
-            padding-left: 0%;
+            padding-left: 50%;
             padding-right: 10%;
             }}
             #root > div:nth-child(1) > div > div > div > div > section > div > div:nth-child(1) > div > div:nth-child(1) > div{{

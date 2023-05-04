@@ -17,9 +17,9 @@ HEADER_STYLE=f"""<style>
             [data-testid="stImage"] > img{{
             height: 300px;
             width: 300px;
-            padding-top: 20%;
+            padding-top: 10%;
             padding-bottom: 10%;
-            padding-left: 15%;
+            padding-left: 10%;
             padding-right: 10%;
             }}
             #root > div:nth-child(1) > div > div > div > div > section > div > div:nth-child(1) > div > div:nth-child(1) > div{{
@@ -88,7 +88,7 @@ st.set_page_config(
 with st.container():
     col1, col2 = st.columns([1,2], gap="small")
     with col1:
-        st.image(PROFILE_IMAGE, width=600)
+        st.image(PROFILE_IMAGE, width=300)
     with col2:
         st.markdown(HEADER_STYLE, unsafe_allow_html=True)
         st.title(PAGE_TITLE)

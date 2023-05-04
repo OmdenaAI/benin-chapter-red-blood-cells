@@ -19,8 +19,8 @@ HEADER_STYLE=f"""<style>
             width: 300px;
             padding-top: 0%;
             padding-bottom: 10%;
-            padding-left: -10%;
-            padding-right: 10%;
+            padding-left: 0%;
+            padding-right: 50%;
             }}
             #root > div:nth-child(1) > div > div > div > div > section > div > div:nth-child(1) > div > div:nth-child(1) > div{{
             background-image: url("{BACKGROUND_IMAGE}");

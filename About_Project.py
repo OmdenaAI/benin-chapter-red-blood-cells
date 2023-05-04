@@ -86,9 +86,9 @@ st.set_page_config(
 
 
 with st.container():
-    col1, col2 = st.columns([1,2], gap="small")
+    col1, col2 = st.columns([1,3], gap="small")
     with col1:
-        st.image(PROFILE_IMAGE, width=100)
+        st.image(PROFILE_IMAGE, width=300)
     with col2:
         st.markdown(HEADER_STYLE, unsafe_allow_html=True)
         st.title(PAGE_TITLE)

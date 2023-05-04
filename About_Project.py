@@ -17,7 +17,7 @@ HEADER_STYLE=f"""<style>
             [data-testid="stImage"] > img{{
             height: 300px;
             width: 300px;
-            padding-top: -10%;
+            padding-top: 40%;
             padding-bottom: 10%;
             padding-left: 10%;
             padding-right: 10%;

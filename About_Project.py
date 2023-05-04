@@ -18,9 +18,9 @@ HEADER_STYLE=f"""<style>
             height: 300px;
             width: 300px;
             padding-top: 0%;
-            padding-bottom: 50%;
+            padding-bottom: 60%;
             padding-left: 0%;
-            padding-right: 20%;
+            padding-right: 25%;
             }}
             #root > div:nth-child(1) > div > div > div > div > section > div > div:nth-child(1) > div > div:nth-child(1) > div{{
             background-image: url("{BACKGROUND_IMAGE}");
@@ -86,7 +86,7 @@ st.set_page_config(
 
 
 with st.container():
-    col1, col2 = st.columns([1,3], gap="small")
+    col1, col2 = st.columns([1,4], gap="small")
     with col1:
         st.image(PROFILE_IMAGE, width=300)
     with col2:
